@@ -7,7 +7,7 @@ GROUP: CODEFORMERS
 | AI PAIR PROGRAMMING |
 -----------------------
 
-@author: Meeshawn Marathe
+@author: Nithesh Veerappa
 
 On the main web app display, the user is presented with two options:
     - Enter an existing API key if he has one:
