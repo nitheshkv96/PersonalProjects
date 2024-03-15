@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov  4 12:58:56 2023
+CIS 553 (FALL 2023) PROJECT
 
-@author: nveerappa
+GROUP: CODEFORMERS
+-----------------------
+| AI PAIR PROGRAMMING |
+-----------------------
+
+@author: Nithesh Veerappa
+
 """
 import os
 # import tkinter as tk
